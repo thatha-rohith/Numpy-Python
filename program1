@@ -1,0 +1,4 @@
+import numpy as np
+a=np.array(['num','rohi','bangaram','kothii naa kodaka',12,45789765666666])
+print(a)
+print(type(a))
